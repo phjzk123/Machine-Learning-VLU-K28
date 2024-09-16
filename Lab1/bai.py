@@ -13,9 +13,11 @@ y = np.array([86, 55, 86.5, 70, 62, 54, 60, 72, 93, 89, 60, 82, 59, 75,
  56, 89, 45, 60, 60, 72]).reshape((-1,1))# Chuyển Y về dạng ma
 # trận 1 cột và 20 dòng
 X = np.insert(X, 0, 1, axis=1)
+
 theta1 = np.linalg.inv(X.T.dot(X))
 theta2 = (X.T).dot(y)
 theta = theta1.dot(theta2)
+
 import matplotlib.pyplot as plt
 x1 = 150
 y1 = theta[0] + theta[1] * x1
