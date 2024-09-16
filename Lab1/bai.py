@@ -26,3 +26,5 @@ plt.plot(X[:,1], y[:,0], 'bo')
 plt.xlabel('Chiều cao')
 plt.ylabel('Cân nặng')
 plt.title('Chiều cao và cân nặng của sinh viên VLU')
+# in hình trang web
+plt.savefig('ftghy.png')
