@@ -31,3 +31,5 @@ plt.ylabel('Cân nặng')
 plt.title('Chiều cao và cân nặng của sinh viên VLU')
 # in hình trang web
 plt.savefig('ftghy.png')
+import streamlit as st
+st.image("ftghy.png", caption="Chiều cao và cân nặng của sinh viên VLU")
