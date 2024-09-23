@@ -1,4 +1,5 @@
 import numpy as np
+
 #Cho chiều cao của các bạn sinh viên trong lớp lần lượt là (180, 162, 183,
 # 174, 160, 163, 180, 165, 175, 170, 170, 169, 168, 175, 169, 171, 155, 158,
 # 175, 165) cm
