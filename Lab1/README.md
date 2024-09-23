@@ -1,5 +1,4 @@
-![example](ftghy.png)
 # anh xuat ra web
 ![example](ft.png)
-# anh code
+# anh code bai tap
 ![example](ftv.png)
