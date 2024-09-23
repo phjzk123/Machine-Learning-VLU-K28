@@ -1,4 +1,4 @@
-# anh xuat ra web
+# ảnh xuất ra web
 ![example](ft.png)
-# anh code bai tap
+# ảnh code bài tập
 ![example](ftv.png)
