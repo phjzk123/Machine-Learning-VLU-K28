@@ -1,5 +1,5 @@
 1. Công nghệ sử dụng
-   Framework: numpy, matplotlib, streamlit
+   + Framework: numpy, matplotlib, streamlit
 2. Thuật toán  
 3. Hiển thị kết quả lên website
 # ảnh xuất ra web
