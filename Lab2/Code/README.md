@@ -10,4 +10,4 @@
 ![example](e.png)
 ![example](u.png)
 + Kết quả so sánh
-![example](s.png)
++ ![example](s.png)
