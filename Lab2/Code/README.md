@@ -8,5 +8,5 @@
 ![example](Screenshot 2024-09-29 131041.png)
 4. Đối với các bài Lab mà có sự đánh giá giữa các thuật toán thì các bạn nêu rõ ở mục 4 này.
 ![example](e.png)
-![example](Screenshot 2024-09-29 131818.png)
+![example](u.png)
 ![example](s.png)
