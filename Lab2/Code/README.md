@@ -9,4 +9,5 @@
 4. Đối với các bài Lab mà có sự đánh giá giữa các thuật toán thì các bạn nêu rõ ở mục 4 này.
 ![example](e.png)
 ![example](u.png)
++ Kết quả so sánh
 ![example](s.png)
