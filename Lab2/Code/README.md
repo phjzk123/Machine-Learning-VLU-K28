@@ -6,7 +6,7 @@
 + ![example](i.png)
 + ![example](o.png)
 + ![example](p.png)
-1. Đối với các bài Lab mà có sự đánh giá giữa các thuật toán thì các bạn nêu rõ ở mục 4 này.
+4. Đối với các bài Lab mà có sự đánh giá giữa các thuật toán thì các bạn nêu rõ ở mục 4 này.
 + ![example](e.png)
 + ![example](u.png)
 + Kết quả so sánh
