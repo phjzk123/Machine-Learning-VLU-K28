@@ -1,5 +1,5 @@
 1. Công nghệ sử dụng
-+ Framework: panda, numpy
++ Framework: panda, numpy,streamlit, Scikit-learn
 2. Thuật toán
 + KNN: (K-nearest neighbors )là thuật toán học máy có giám sát, đơn giản và dễ triển khai. Thường được dùng trong các bài toán phân loại và hồi quy.
 3. Hiển thị kết quả lên website
