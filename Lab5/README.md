@@ -7,4 +7,6 @@
 + ![example](anh1.png)
 + Kết quả bài 2
 + ![example](anh2.png)
-4. Đối với các bài Lab mà có sự đánh giá giữa các thuật toán thì các bạn nêu rõ ở mục 4 này.
++ Bài tập thêm 
++ ![example](baitapthem.jpg)
+1. Đối với các bài Lab mà có sự đánh giá giữa các thuật toán thì các bạn nêu rõ ở mục 4 này.
