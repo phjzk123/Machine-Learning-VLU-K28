@@ -9,4 +9,4 @@
 + ![example](anh2.png)
 + Bài tập thêm 
 + ![example](baitapthem.jpg)
-1. Đối với các bài Lab mà có sự đánh giá giữa các thuật toán thì các bạn nêu rõ ở mục 4 này.
+4. Đối với các bài Lab mà có sự đánh giá giữa các thuật toán thì các bạn nêu rõ ở mục 4 này.
