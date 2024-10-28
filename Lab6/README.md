@@ -9,10 +9,6 @@
 + Thuật toán: Softmax chuyển đổi một vector giá trị thành xác suất, với tổng các giá trị bằng 1. Thường được sử dụng trong lớp đầu ra cho các bài toán phân loại đa lớp.
 + Thuật toán: Tanh tương tự Sigmoid nhưng trả về giá trị trong khoảng từ -1 đến 1, giúp tập trung dữ liệu quanh 0.
 3. Hiển thị kết quả lên website
-+ Kết quả bài 1
-+ ![example](anh1.png)
-+ Kết quả bài 2
-+ ![example](anh2.png)
-+ Bài tập thêm 
-+ ![example](baitapthem.jpg)
-1. Đối với các bài Lab mà có sự đánh giá giữa các thuật toán thì các bạn nêu rõ ở mục 4 này.
++ Kết quả
++ ![example](p.png)
+4. Đối với các bài Lab mà có sự đánh giá giữa các thuật toán thì các bạn nêu rõ ở mục 4 này.
