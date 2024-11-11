@@ -1,6 +1,7 @@
 1. Công nghệ sử dụng
-+ Framework: numpy, torchvision, torch, matplotlib
++ Framework: numpy, pandas, Sikit-learn
 2. Thuật toán
-+ 
-1. Hiển thị kết quả lên website
-2. Kết quả
++ KNN: Thuật toán sử dụng cho việc phân loại dữ liệu dựa trên việc tìm ra k điểm gần nhất trong tập huấn luyện của một điểm trong tập kiểm tra.
++ Confusion Matrix (Ma trận nhầm lẫn): Ma trận này sẽ cho biết kết quả dự đoán đúng và sai của mô hình
+3. Kết quả
++ ![example](anh.png)
